@@ -1,5 +1,9 @@
 # MDC-Dataverse-recruitment-task
 # 📊 MDC Dataverse Recruitment Task  
+## 🚀 Google Colab Notebook
+
+[**Open in Google Colab**](https://colab.research.google.com/drive/1zj-Ts4Gsa5D0aiqjletZJxjETWyatDIN?usp=sharing)
+
 ## **Superstore Sales Analysis & Forecasting**  
 
 This repository contains a **data analysis project** completed as part of a recruitment task for the **MDC Dataverse Club**.  
