@@ -68,8 +68,8 @@ The primary objective is to **analyze historical sales data** to uncover insight
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/your-username/mdc-dataverse-sales.git
-   cd mdc-dataverse-sales
+   git clone https://github.com/akiharsha/MDC-Dataverse-recruitment-task.git
+   cd MDC-Dataverse-recruitment-task
 
 ---
 
